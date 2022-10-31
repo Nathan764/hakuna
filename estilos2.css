@@ -1,0 +1,79 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,400;1,100;1,300&display=swap');
+
+
+body{
+    margin: 0;
+    padding: 0;
+    font-family: 'Roboto';
+    background-image: url(img/fundo3.webp);
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: white;
+}
+
+.cabecalho{
+    text-align: center;
+}
+
+.voltar a{
+    font-size: 30px;
+    text-decoration: none;
+    color: rgb(255, 255, 255);
+    position: absolute;
+}
+
+.voltar{
+    padding-right: 1650px;
+}
+
+.fotos {
+    padding-left: 300px;
+    display: flex;
+    margin-top: 80px;
+}
+
+.fotos h1{
+    padding-left: 15px;
+}
+
+.fotos1 {
+    padding-left: 300px;
+    display: flex;
+    margin-top: 150px;
+}
+
+.fotos1 h1{
+    padding-left: 15px;
+}
+
+.foto2{
+    padding-left: 300px;
+}
+
+.foto4{
+    padding-left: 300px;
+}
+
+.comprar{
+    display: flex;
+}
+
+.comprar h1 a{
+    margin-left: 400px;
+    padding-right: 210px;
+    text-decoration: none;
+    color: white;
+}
+
+.comprar1{
+    display: flex;
+}
+
+.comprar1 h1 a{
+    margin-left: 400px;
+    padding-right: 210px;
+    text-decoration: none;
+    color: white;
+
+}
+
